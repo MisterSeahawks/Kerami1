@@ -1,0 +1,389 @@
+body {
+  margin: 0;
+}
+
+
+
+.topContainer {
+    margin: 0;
+    height: 150px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo {
+  margin: 10px;
+  height: 50px;
+  width: 50px;
+}
+
+.heading {
+  display: inline-block;
+  margin-left: 13%;
+}
+
+.men {
+  color: #ffd700;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-decoration: none;
+  border: solid;
+  margin: 25px;
+
+}
+
+.women {
+  color: #ffd700;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-decoration: none;
+  border: solid;
+  margin: 25px;
+
+}
+
+.kids {
+  color: #ffd700;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-decoration: none;
+  border: solid;
+  margin: 25px;
+
+}
+
+.accessories {
+  color: #ffd700;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-decoration: none;
+  border: solid;
+  margin: 25px;
+
+}
+
+.button {
+  position: relative;
+  bottom: 400px;
+  left: 15%;
+  color: #ffd700;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-decoration: none;
+  border: solid;
+  background-color: black;
+
+}
+
+.sea {
+  background-color: black;
+  color: #ffd700;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  border: solid;
+}
+
+.clothing {
+  color: #ffd700;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  border: solid;
+  text-align: center;
+
+
+}
+
+h1 {
+  position: absolute;
+  left: 5%;
+  top: 140px;
+  text-decoration: underline;
+  font-size: 5em;
+  color: #ffd700;
+  font-family: 'Merriweather', serif;
+  font-weight: lighter;
+}
+
+.kerami {
+  padding-right: 50px;
+}
+
+h3 {
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  border: solid;
+}
+
+h2 {
+  margin-left: 4%;
+  font-family: 'Merriweather', serif;
+  text-decoration: underline;
+  font-size: 2em;
+}
+
+
+
+.actionBar {
+  margin-top: 30px;
+  display: inline-block;
+  position: absolute;
+  right: 5%;
+}
+
+.icon {
+  margin-left: 10px;
+}
+
+.logIn {
+  height: 25px;
+  width: 25px;
+  background-color: black;
+  margin: 20px 10px;
+}
+
+.favs {
+  height: 25px;
+  width: 25px;
+  background-color: black;
+  margin: 20px 10px;
+}
+
+.cart {
+  height: 25px;
+  width: 25px;
+  background-color: black;
+  margin: 20px 10px;
+}
+
+.search {
+  color: black;
+}
+
+.banner {
+  margin: 0;
+  width: 100%;
+}
+
+.banpic {
+  width: 100%;
+}
+
+
+
+.notSureYet {
+  display: inline-block;
+  background-color: black;
+  height: 400px;
+  width: 100%;
+}
+
+.winter {
+  width: 22%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.winterpic {
+  height: 100%;
+  width: 100%;
+}
+
+.spring {
+  width: 22%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.springpic {
+  height: 100%;
+  width: 100%;
+}
+
+.summer {
+  width: 22%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.summerpic {
+  height: 100%;
+  width: 100%;
+}
+
+.fall {
+  width: 22%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.fallpic {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+
+.clothes{
+  background-color: black;
+}
+
+.shirts {
+  margin-left: 4%;
+  width: 12.5%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.shirtpic {
+  height: 100%;
+  width: 100%;
+}
+
+.pants {
+  width: 12.5%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.pantspic {
+  height: 100%;
+  width: 100%;
+}
+
+
+.hoodies {
+  width: 12.5%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.hoodiespic {
+  height: 100%;
+  width: 100%;
+}
+
+.jackets {
+  width: 12.5%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.jacketspic {
+  height: 100%;
+  width: 100%;
+}
+
+.formal {
+  width: 12.5%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.formalpic {
+  height: 100%;
+  width: 100%;
+}
+
+.casual {
+  width: 12.5%;
+  padding: 1.25%;
+  display: inline-block;
+}
+
+.casualpic {
+  height: 100%;
+  width: 100%;
+}
+
+
+.about {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+  width: 60%;
+  position: relative;
+  left: 20%;
+  line-height: 2em;
+  letter-spacing: .1em;
+}
+
+#abt {
+  text-decoration: none;
+  border: none;
+}
+
+.cat {
+  color: #ffd700;
+}
+
+.ribbon {
+  background-color: black;
+  width: 100%;
+  height: 150px;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+  line-height: 2em;
+}
+
+.support {
+  display: inline-block;
+}
+
+.info {
+  display: inline-block;
+}
+
+.bottom1 {
+  margin-left: 30px;
+  display: inline-block;
+}
+
+.bottom2 {
+  margin-left: 30px;
+  display: inline-block;
+}
+
+.privacy{
+  margin-left: 30px;
+}
+
+.social {
+  width: 100px;
+  position: relative;
+  left: 85%;
+  bottom: 40px;
+}
+
+.facebook {
+  width: 25px;
+}
+
+.twitter {
+  width: 25px;
+}
+
+.instagram {
+  width: 25px;
+  height: 25px;
+}
+
+.end {
+  width: 100%;
+  height: 25px;
+  background-color: black;
+}
